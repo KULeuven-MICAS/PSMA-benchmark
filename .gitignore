@@ -1,0 +1,13 @@
+/sim/
+/syn/
+/lib/*
+/archive/
+/Linyan/
+/TMP/
+/TEST/
+*.ipynb*
+*cache*
+*.pyc
+*.toml
+*.log
+.vscode
